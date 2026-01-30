@@ -22,7 +22,10 @@ vercel login
    - Vào [vercel.com](https://vercel.com)
    - Click "New Project"
    - Import repository của bạn
-   - Vercel sẽ tự động detect Next.js project
+   - **QUAN TRỌNG**: Trong phần "Configure Project":
+     - **Root Directory**: Set thành `frontend` (click "Edit" và chọn `frontend`)
+     - Framework Preset: Next.js (sẽ tự động detect)
+   - Vercel sẽ tự động detect Next.js project từ thư mục `frontend/`
 
 3. **Cấu hình Environment Variables**:
    - Trong Vercel Dashboard, vào Settings > Environment Variables
