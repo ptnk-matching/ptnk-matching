@@ -1,0 +1,14 @@
+Báo cáo nghiên cứu về Trí tuệ nhân tạo và Machine Learning
+
+Tóm tắt:
+Trong bài báo cáo này, chúng em nghiên cứu về các ứng dụng của trí tuệ nhân tạo và machine learning trong việc xử lý ngôn ngữ tự nhiên và computer vision. Chúng em đã tìm hiểu về các mô hình deep learning như neural networks, convolutional neural networks và recurrent neural networks.
+
+Nội dung chính:
+1. Giới thiệu về AI và Machine Learning
+2. Ứng dụng trong NLP (Natural Language Processing)
+3. Ứng dụng trong Computer Vision
+4. Hệ thống khuyến nghị sử dụng AI
+
+Kết luận:
+Trí tuệ nhân tạo và machine learning đang phát triển rất nhanh và có nhiều ứng dụng thực tế trong cuộc sống. Các mô hình deep learning đã đạt được những thành tựu đáng kể trong việc xử lý ngôn ngữ và hình ảnh.
+
