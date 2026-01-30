@@ -288,7 +288,7 @@ export default function Home() {
         {status === 'unauthenticated' && authConfigured !== false && (
           <div className="bg-yellow-50 border border-yellow-200 text-yellow-800 px-4 py-3 rounded-lg mb-6">
             <p className="font-semibold">⚠️ Yêu cầu đăng nhập:</p>
-            <p>Vui lòng đăng nhập với Google để sử dụng hệ thống. Click nút "Đăng nhập" ở góc trên bên phải.</p>
+            <p>Vui lòng đăng nhập với Google để sử dụng hệ thống. Click nút &quot;Đăng nhập&quot; ở góc trên bên phải.</p>
           </div>
         )}
 
