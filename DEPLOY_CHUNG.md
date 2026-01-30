@@ -9,7 +9,8 @@
 2. **Vào Settings → General**
 
 3. **Cấu hình Build & Development Settings:**
-   - **Root Directory**: `.` (root của repo, KHÔNG phải `frontend/`)
+   - **Root Directory**: Để TRỐNG (empty) - Vercel sẽ tự động dùng root của repo
+   - ⚠️ **KHÔNG dùng** `./` hoặc `.` - sẽ bị cảnh báo đỏ
    - **Framework Preset**: Next.js (hoặc để Vercel tự detect)
    - **Build Command**: `cd frontend && npm install && npm run build`
    - **Output Directory**: `frontend/.next`
